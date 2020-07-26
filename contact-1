@@ -1,0 +1,21 @@
+<!<!DOCTYPE html>
+<<!DOCTYPE html>
+My Contact number:</h3>
+<ol>
+<a href="contact.html">314-931-7879</a>
+<p>akbeezy314@gmail.com</p>
+<hr></hr>
+<form  action="mail to:akbeezy314@gmail.com" method="post" enctype="text/plain"></form>
+<label>Your name:</label>
+<input type="text" name="your name"<br></br>
+<input type="submit" name=""> value=""
+
+<label>Sign up for the email list</label>
+<label>Your email:</label>
+<input type="email" name="yourEmail" value=""</br></input>
+<label>Your message:</label></br></label>
+<textarea> name="yourMessage" rows="10" cols="30"</textarea></textarea>
+<input type="submit" name=""></input>
+</form>
+</body>
+</html>
